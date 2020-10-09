@@ -1,4 +1,4 @@
-# Enhanced COVID-19 data for improved prediction of survivalWenhuan
+# Enhanced COVID-19 data for improved prediction of survival
 
 GitHub Repository containing data and code for paper submitted on APBC-2021
 
