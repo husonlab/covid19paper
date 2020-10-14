@@ -24,8 +24,6 @@ GitHub Repository containing data and code for paper submitted on APBC-2021
  			  -o                    <Output file name> Enter path to output file name
 			  -t                    <Number of Thread> Enter total Number of thread you want to use
     ```
-<<<<<<< HEAD
-=======
 ----
 2. Downloading institue detail and address from medArix and bioArix downloaded paper data:
 	```
@@ -59,5 +57,5 @@ GitHub Repository containing data and code for paper submitted on APBC-2021
 				-o <OutputFileName>  Enter the File Name Your Output
 				-t <NumberOfThread>  Enter Number of thread
 	```
->>>>>>> 3762489ce16657186232c7898e3d0f300728c112
+
 ----
