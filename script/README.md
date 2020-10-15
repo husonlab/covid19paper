@@ -1,11 +1,49 @@
-# On the application of advanced machine learningmethods to analyze enhanced, multimodal datafrom persons infected with COVID-19
+# On the application of advanced machine learning methods to analyze enhanced, multimodal datafrom persons infected with COVID-19
 
 ----
 ## Contents ##
-* [Scripts Used](#Scripts-Used)
+* [Requirements](#requirements)
+* [Initial Installation](#initial-installation)
+* [How to run](#how-to-run)
 
 ----
-## Scripts Used ##
+## Requirements ##
+
+1. [pandas](https://pandas.pydata.org/)
+2. [Selenium](https://selenium-python.readthedocs.io/) 
+3. [Requests](https://requests.readthedocs.io/en/master/)
+4. [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
+5. [python](http://www.python.org/) (version >= 3.8)
+
+----
+## Initial Installation ##
+### 1. Installing requirement. ###
+
+It's useful to create a conda environment if you want to install from source.
+    ``conda create -n covid python=3.8 ``
+    ``conda activate covid``
+ 
+Installing Selenium
+    ``conda install -c conda-forge selenium``
+
+Installing Requests
+    ``conda install -c anaconda requests``
+
+Installing BeautifulSoup
+    ``conda install -c anaconda beautifulsoup4``
+
+
+### 2. Download covid19paper git ###
+Option 1: Development Version
+
+* Create a clone of the repository: 
+    
+    ``$ git clone https://github.com/husonlab/covid19paper.git``
+
+### 3. cd covid19paper/script ###
+
+----
+## How to run ##
 1. Downloading paper information from medArix and bioArix:
     ```
     python3 BioMedArix.py  -h

@@ -8,18 +8,10 @@
 ## Data Description ##
 The additional files mentioned in the paper and other files that are used or processed in model development are present here, further information is provided below.
 
-1. Additional file 1 (WHOBioAndMedAxiv.csv).
+1. Additional file 1 (WHOBioAndMedAxiv.csv): Merge and processed publication data downloaded from WHO, medRxiv and bioRxiv COVID-19 literature database.
 
-Merge and processed publication data downloaded from WHO, medRxiv and bioRxiv COVID-19 literature database.
+2. Additional file 2 (DeathAndAliveForMafft.fasta): Sequences used for MAFFT alignment downloaded from GISAID and NCBI
 
-2. Additional file 2 (DeathAndAliveForMafft.fasta):
+3. Additional file 3 (Enhanced_structured_dataset.csv): COVID-19 Enhanced structured dataset.
 
-Sequences used for MAFFT alignment downloaded from GISAID and NCBI
-
-3. Additional file 3 (Enhanced_structured_dataset.csv):
-
-COVID-19 Enhanced structured dataset.
-
-4. Additional file 4 (DeathAndAliveForMafftAlignment1000Iterate.fasta):
-
-Aligned sequence used for Bi-LSTM.
+4. Additional file 4 (DeathAndAliveForMafftAlignment1000Iterate.fasta): Aligned sequence used for Bi-LSTM.
