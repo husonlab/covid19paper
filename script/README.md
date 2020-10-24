@@ -21,7 +21,6 @@
 
 It's useful to create a conda environment if you want to install from source.
     ``conda create -n covid python=3.8 ``
-
     ``conda activate covid``
  
 Installing Selenium
