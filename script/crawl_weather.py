@@ -18,7 +18,7 @@ import argparse
 # set parameters
 parser = argparse.ArgumentParser()
 parser.add_argument('--input', dest='input_file', help='input path', type=str)
-parser.add_argument('--browser', dest='browsername', help='chromedriver path', default='./chromedriver')
+parser.add_argument('--browser', dest='browsername', help='chromedriver path', default='./chromedriver')# Add path to chrome driver
 parser.add_argument('--output', dest='weather_file', help='output path')
 
 args = vars(parser.parse_args())
