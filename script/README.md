@@ -21,6 +21,7 @@
 
 It's useful to create a conda environment if you want to install from source.
     ``conda create -n covid python=3.8 ``
+
     ``conda activate covid``
  
 Installing Selenium
@@ -88,4 +89,15 @@ Option 1: Development Version
                 -t <NumberOfThread>  Enter Number of thread
     ```
 
+----
+5. For Weather Crawling:
+    ```
+    python3 crawl_weather.py -h
+        usage: crawl_weather.py [-h] [--input INPUT_FILE] [--browser BROWSERNAME] [--output WEATHER_FILE]
+            optional arguments:
+                -h, --help            show this help message and exit
+                --input INPUT_FILE    input path
+                --browser BROWSERNAME chromedriver path
+                --output WEATHER_FILE output path
+    ```
 ----
