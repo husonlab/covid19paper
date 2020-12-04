@@ -1,6 +1,6 @@
 # On the application of advanced machine learning methods to analyze enhanced, multimodal datafrom persons infected with COVID-19
 
-GitHub Repository containing data and code for paper submitted on APBC-2021
+GitHub Repository containing data and code for paper submitted on 
 
 ----
 ## Contents ##
