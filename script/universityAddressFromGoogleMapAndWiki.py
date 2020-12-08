@@ -16,7 +16,10 @@ from multiprocessing import Queue, Process, cpu_count
 import time
 from bs4 import BeautifulSoup as soup
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> d0189de077aea5eb22ad1f307154ad5d53d492ff
 ap = argparse.ArgumentParser()
 
 ap.add_argument("-i", metavar="<File Path>", dest="FilePath",

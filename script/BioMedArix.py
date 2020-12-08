@@ -5,7 +5,10 @@ import urllib.request, json
 from multiprocessing import Queue, Process, cpu_count
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> d0189de077aea5eb22ad1f307154ad5d53d492ff
 ap = argparse.ArgumentParser()
 ap.add_argument("-n", metavar="<total number of paper showed on https://connect.biorxiv.org/relate/content/181>", dest="NumberOfPaper",
     help="Enter path to output file name", required=True)
