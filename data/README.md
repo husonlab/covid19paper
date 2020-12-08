@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # On the application of advanced machine learning methods to analyze enhanced, multimodal data from persons infected with COVID-19
-=======
-# On the application of advanced machine learning methods to analyze enhanced, multimodal datafrom persons infected with COVID-19
->>>>>>> d0189de077aea5eb22ad1f307154ad5d53d492ff
+
 
 ----
 ## Contents ##

@@ -14,10 +14,7 @@ import urllib3.contrib.pyopenssl
 s = requests.Session()
 s.mount('http', HTTPAdapter(max_retries=3))
 s.mount('https', HTTPAdapter(max_retries=3))
-<<<<<<< HEAD
 
-=======
->>>>>>> d0189de077aea5eb22ad1f307154ad5d53d492ff
 '''
 Taking Argument
 '''

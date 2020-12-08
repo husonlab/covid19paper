@@ -14,11 +14,6 @@ import argparse
 from multiprocessing import Queue, Process, cpu_count
 import time
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> d0189de077aea5eb22ad1f307154ad5d53d492ff
 '''
 Taking Argument
 '''

@@ -1,10 +1,7 @@
-# On the application of advanced machine learning methods to analyze enhanced, multimodal datafrom persons infected with COVID-19
+# On the application of advanced machine learning methods to analyze enhanced, multimodal data from persons infected with COVID-19
 
-<<<<<<< HEAD
 GitHub Repository containing data and code for paper submitted on computation journal.
-=======
-GitHub Repository containing data and code for paper submitted on 
->>>>>>> d0189de077aea5eb22ad1f307154ad5d53d492ff
+
 
 ----
 ## Contents ##
