@@ -16,3 +16,5 @@ The additional files mentioned in the paper and other files that are used or pro
 3. Additional file 3 (Enhanced_structured_dataset.csv): COVID-19 Enhanced structured dataset.
 
 4. Additional file 4 (DeathAndAliveForMafftAlignment1000Iterate.fasta): Aligned sequence used for Bi-LSTM.
+
+5. Additional file 5 (ChronicDiseases.xlsx): File containing information about the chronic diseases associated with the patient.
