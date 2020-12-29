@@ -17,4 +17,4 @@ The additional files mentioned in the paper and other files that are used or pro
 
 4. Additional file 4 (DeathAndAliveForMafftAlignment1000Iterate.fasta): Aligned sequence used for Bi-LSTM.
 
-5. Additional file 5 (ConfusionMatrixes.pdf): Contains confusion matrixes for all the generated models.
+5. Additional file 5 (ConfusionMatrices.pdf): Contains confusion matrices for all the generated models.
