@@ -34,7 +34,7 @@ preprint:https://www.biorxiv.org/content/10.1101/2020.07.08.193144v1.full
 For citing code and data please use the citation below.
 
 ```{bibtex}
-@Article{wenhaun2020,
+@Article{wenhaun2021,
 AUTHOR = {Zeng, Wenhuan and Gautam, Anupam and Huson, Daniel H.},
 TITLE = {On the Application of Advanced Machine Learning Methods to Analyze Enhanced, Multimodal Data from Persons Infected with COVID-19},
 JOURNAL = {Computation},
