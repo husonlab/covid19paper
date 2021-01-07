@@ -1,10 +1,14 @@
 # On the application of advanced machine learning methods to analyze enhanced, multimodal data from persons infected with COVID-19
 
+published in computation https://www.mdpi.com/2079-3197/9/1/4/htm
+
 ----
 ## Contents ##
 * [Requirements](#requirements)
 * [Initial Installation](#initial-installation)
 * [How to run](#how-to-run)
+* [Publication](#Publication)
+* [Citation](#Citation)
 
 ----
 ## Requirements ##
@@ -100,3 +104,29 @@ Option 1: Development Version
                 --output WEATHER_FILE output path
     ```
 ----
+
+## Publication##
+
+Publication can be accessed at: https://www.mdpi.com/2079-3197/9/1/4/htm
+
+preprint:https://www.biorxiv.org/content/10.1101/2020.07.08.193144v1.full
+
+----
+## Citation ##
+
+For citing code and data please use the citation below.
+
+```{bibtex}
+@Article{wenhaun200,
+AUTHOR = {Zeng, Wenhuan and Gautam, Anupam and Huson, Daniel H.},
+TITLE = {On the Application of Advanced Machine Learning Methods to Analyze Enhanced, Multimodal Data from Persons Infected with COVID-19},
+JOURNAL = {Computation},
+VOLUME = {9},
+YEAR = {2021},
+NUMBER = {1},
+ARTICLE-NUMBER = {4},
+URL = {https://www.mdpi.com/2079-3197/9/1/4},
+ISSN = {2079-3197},
+DOI = {10.3390/computation9010004}
+}
+```
